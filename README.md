@@ -9,12 +9,12 @@ A selftaught developer currently looking for his 1st job to pursue a career in d
 
 #### Check out my project below!
 
-            | |
-            | |
-            | |
-            | |
-         ___| |___
-         \       /
-          \     /
-           \   /
-            \_/
+                                                                  | |
+                                                                  | |
+                                                                  | |
+                                                                  | |
+                                                                __| |___
+                                                               \       /
+                                                                \     /
+                                                                 \   /
+                                                                  \_/
