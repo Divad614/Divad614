@@ -6,3 +6,15 @@ A selftaught developer currently looking for his 1st job to pursue a career in d
 - 🔭 I’m currently working on ... Building projects while activily looking for jobs!
 - 🌱 I’m currently learning ... React.js, JavaScript and Python
 
+
+#### Check out my project below!
+
+            | |
+            | |
+            | |
+            | |
+         ___| |___
+         \       /
+          \     /
+           \   /
+            \_/
